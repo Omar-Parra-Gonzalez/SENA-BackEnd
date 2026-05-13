@@ -7,6 +7,7 @@ MySQL y conexión a base de datos remota.
 - Spring Data JPA
 - MySQL
 - Maven
+  
 **Funcionalidades principales:
 - Registro de usuarios
 - Inicio de sesión
